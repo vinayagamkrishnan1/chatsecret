@@ -1,4 +1,4 @@
-package com.chatsecret;
+package com.vinay.chatsecret;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
